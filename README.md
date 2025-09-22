@@ -21,7 +21,7 @@ Celem zadania jest stworzenie pakietu PL/SQL, który pozwala porównywać różn
 
 ---
 
-## 🇬🇧 Project Description
+## EN Project Description
 
 **Project goal:**  
 The goal of this task is to create a PL/SQL package that compares different versions of the FACT table in an Oracle database. The package identifies modified, new, and deleted rows, and optionally generates detailed column-level differences.  
